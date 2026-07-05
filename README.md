@@ -2,7 +2,7 @@
 
 ## Half-Life 1 GOTY Edition Disc and Game (1.0.1.0 Build 929)
 
-**CD Key:**
+**CD Keys:**
 - 2780-52030-8703
 - 2780-52030-8703
 
@@ -82,7 +82,7 @@
 ## Windows XP Professional Service Pack 3
 
 
-**Product Keys:*
+**Product Keys:**
 - XP8BF-F8HPF-PY6BX-K24PJ-TWT6M
 - B2RBK-7KPT9-4JP6X-QQFWM-PJD6G
 - V2C47-MK7JD-3R89F-D2KXW-VPK3J
