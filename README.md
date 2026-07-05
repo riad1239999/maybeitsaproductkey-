@@ -23,6 +23,8 @@
 
 **Download:**
 - archive.org/details/adobe-photoshop-cs-6-extended_202509
+ 
+---
 
 ## Half Life 1 CD
 
