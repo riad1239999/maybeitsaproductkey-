@@ -18,7 +18,7 @@ Cheese king32
 **Serial Numbers:**
 
 
--i sadly couldnt find any serial number for this :(
+- i sadly couldnt find any serial number for this :(
 
 
 
@@ -111,7 +111,7 @@ Cheese king32
 **Product Keys:**
 
 
--NO KEYS REQUIRED!
+- NO KEYS REQUIRED!
 
 **Download:**
 - archive.org/details/adobe-photoshop-2020-x-64_202506
