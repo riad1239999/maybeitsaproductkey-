@@ -12,7 +12,8 @@ Cheese king32
 
 ---
 
-## Adobe Photoshop CS6 Extended
+## Adobe Photoshop CS6 Extended 
+#(i couldnt really find the valid serial numbers for this, i tried all of them and it didnt work, you could try the instructions but i dont think it would work)
 
 **Serial Numbers:**
 - 1330-1971-4830-5668-6067-1762
