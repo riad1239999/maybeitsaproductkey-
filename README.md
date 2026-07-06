@@ -49,13 +49,13 @@ Cheese king32
 
 -127.0.0.1 ereg.wip3.adobe.com
 
-127.0.0.1 activate-sea.adobe.com
+=127.0.0.1 activate-sea.adobe.com
 
-127.0.0.1 wwis-dubc1-vip60.adobe.com
+-127.0.0.1 wwis-dubc1-vip60.adobe.com
 
-127.0.0.1 activate-sjc0.adobe.com
+-127.0.0.1 activate-sjc0.adobe.com
 
-127.0.0.1 adobe.activate.com
+-127.0.0.1 adobe.activate.com
 
 -127.0.0.1 adobeereg.com
 
