@@ -101,3 +101,14 @@ Cheese king32
 
 **Download:**
 - archive.org/details/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974_202108-backup/R+(5).mp4
+
+---
+## Adobe Photoshop 2020 X64
+
+
+**Product Keys:**
+-NO KEYS REQUIRED!
+
+**Download:**
+- archive.org/details/adobe-photoshop-2020-x-64_202506
+
