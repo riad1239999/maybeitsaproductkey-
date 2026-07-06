@@ -20,6 +20,8 @@ Cheese king32
 - 1330-1912-2628-0850-0232-4869
 - 1330-1886-0283-4488-9152-2034
 - 1330-1544-4195-8131-3034-5634
+
+
 **Some extra instructions you need:**
 2 > After Install Not Need to Run Photoshop follow below Steps.
 
