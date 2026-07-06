@@ -20,7 +20,54 @@ Cheese king32
 - 1330-1912-2628-0850-0232-4869
 - 1330-1886-0283-4488-9152-2034
 - 1330-1544-4195-8131-3034-5634
+**Some extra instructions you need:**
+2 > After Install Not Need to Run Photoshop follow below Steps.
 
+3 > Then Go to My Computer>Local Disk (C:)>Windows>System32>Drivers>Etc.>Hosts.
+
+4 > Then Open Host File in Notepad and then paste below Code in that.
+
+127.0.0.1 activate.adobe.com
+
+127.0.0.1 practivate.adobe.com
+
+127.0.0.1 ereg.adobe.com
+
+127.0.0.1 activate.wip3.adobe.com
+
+127.0.0.1 wip3.adobe.com
+
+127.0.0.1 3dns-3.adobe.com
+
+127.0.0.1 3dns-2.adobe.com
+
+127.0.0.1 adobe-dns.adobe.com
+
+127.0.0.1 adobe-dns-2.adobe.com
+
+127.0.0.1 adobe-dns-3.adobe.com
+
+127.0.0.1 ereg.wip3.adobe.com
+
+127.0.0.1 activate-sea.adobe.com
+
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+
+127.0.0.1 activate-sjc0.adobe.com
+
+127.0.0.1 adobe.activate.com
+
+127.0.0.1 adobeereg.com
+
+127.0.0.1 http://www.adobeereg.com
+
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+
+127.0.0.1 125.252.224.90
+
+127.0.0.1 125.252.224.91
+
+127.0.0.1 hl2rcv.adobe.com
 **Download:**
 - archive.org/details/adobe-photoshop-cs-6-extended_202509
  
