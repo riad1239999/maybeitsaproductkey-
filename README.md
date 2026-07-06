@@ -23,6 +23,8 @@ Cheese king32
 
 
 **Some extra instructions you need:**
+
+
 2 > After Install Not Need to Run Photoshop follow below Steps.
 
 3 > Then Go to My Computer>Local Disk (C:)>Windows>System32>Drivers>Etc.>Hosts.
